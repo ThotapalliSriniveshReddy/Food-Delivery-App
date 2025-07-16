@@ -31,31 +31,6 @@ Database: MongoDB for efficient, scalable data storage.
 Payment Integration: Stripe for secure and seamless payment processing.
 Getting Started
 
-Tomato/
-│
-├── client/                  # Frontend code (React)
-│   ├── public/
-│   ├── src/
-│       ├── components/
-│       ├── pages/
-│       └── utils/
-│
-├── server/                  # Backend code (Node.js, Express)
-│   ├── config/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   └── middleware/
-│
-├── admin/                   # Admin panel (React, can be separate or part of client)
-│   ├── components/
-│   └── pages/
-│
-├── .env                     # Environment variables
-├── README.md
-└── package.json
-Future Enhancements
-
 Push Notifications: Notify users about order updates and special offers.
 Advanced Analytics: Provide deeper insights for restaurant and admin users.
 Multi-Language Support: Make the app accessible to a broader audience by adding multiple languages.
