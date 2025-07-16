@@ -31,18 +31,6 @@ Database: MongoDB for efficient, scalable data storage.
 Payment Integration: Stripe for secure and seamless payment processing.
 Getting Started
 
-Clone the Repository: git clone <repo-url>
-Install Dependencies:
-cd client
-npm install
-cd ../server
-npm install
-Set Up Environment Variables: Add environment variables for MongoDB, Stripe keys, and JWT secrets in a .env file.
-Run the Application:
-Start the client: npm start from the client folder.
-Start the server: npm start from the server folder.
-Project Structure
-
 Tomato/
 │
 ├── client/                  # Frontend code (React)
